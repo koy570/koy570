@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...biotechnology, finance, healthcare
 - 🌱 I’m currently learning ... bioinformatics, analytics, data visualization
 - 📫 How to reach me ... yungpko@gmail.com
+- 📱 My LinkedIn ...https://www.linkedin.com/in/koy570/
 
 <!---
 koy570/koy570 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
